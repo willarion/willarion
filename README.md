@@ -4,7 +4,7 @@
  I started coding in 2020 and my current stack is:
  HTML. CSS, SASS, JS, React, Express.js
 
- I'm open to work opportunities. Please, feel free to contact me!
+ _I'm open to work opportunities. Please, feel free to contact me!_
 
 <!--
 **willarion/willarion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
