@@ -3,6 +3,8 @@
 
  I started coding in 2020 and my current stack is:
  HTML. CSS, SASS, JS, React, Express.js
+ 
+ I love React and functional components 👩‍💻
 
  I'm open to work opportunities. Please, feel free [to contact me!](https://www.linkedin.com/in/willarion/)
 
