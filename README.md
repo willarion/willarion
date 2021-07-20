@@ -6,8 +6,6 @@
  
  I love React and functional components 👩‍💻
  
- Now  working on volunteer project for NGO ["Big Brothers Big Sisters"](https://github.com/kalenimal/BBBS)
-
  I'm open to work opportunities. Please, feel free [to contact me!](https://www.linkedin.com/in/willarion/)
 
 <!--
