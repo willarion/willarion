@@ -2,7 +2,7 @@
 ### My name is Marina, a front-end developer from Belarus 📕 
 
  I started coding in 2020 and my current stack is:
- HTML. CSS, SASS, JS, React, Express.js
+ HTML. CSS, SASS, JS, TS, React, Express.js
  
  I love React and functional components 👩‍💻
  
