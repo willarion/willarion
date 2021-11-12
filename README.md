@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### My name is Marina, a front-end developer from Belarus 📕 
+### My name is Marina🌊, a front-end developer from Belarus 📕 
 
  I started coding in 2020 and my current stack is:
  HTML. CSS, SASS, JS, TS, React, Redux, Express.js
